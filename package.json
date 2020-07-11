@@ -6,5 +6,11 @@
   "repository": "https://github.com/Nimbo1999/teste-jest",
   "author": "Matheus Lopes",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
