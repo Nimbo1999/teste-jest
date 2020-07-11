@@ -1,0 +1,10 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "description": "Respositório para testes",
+  "main": "index.js",
+  "repository": "https://github.com/Nimbo1999/teste-jest",
+  "author": "Matheus Lopes",
+  "license": "MIT",
+  "private": true
+}
