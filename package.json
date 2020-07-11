@@ -8,7 +8,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\""
+    "test": "jest --watch *.js"
   },
   "devDependencies": {
     "jest": "^26.1.0"
