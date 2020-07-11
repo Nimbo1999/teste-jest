@@ -1,8 +1,8 @@
 # Testes com a biblioteca Jest.
 
-## Tutorial de como subir em sua máquina:
+## Instale e rode em sua máquina:
 
-1. Possuir em usa maquina o gerenciador de pacotes ```yarn``` e ou o ```npm```.
+1. Possuir em sua máquina o gerenciador de pacotes ```yarn``` e ou o ```npm```.
 
 2. instalar as dependencias do projeto com o comando ```$ yarn``` e ou caso utiliza o npm ```$ npm install``` (No terminal).
 
